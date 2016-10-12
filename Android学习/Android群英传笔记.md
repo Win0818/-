@@ -13,3 +13,15 @@
 ​               ![View结构](C:\Users\Administrator\Desktop\view.png)                ![View结构](C:\Users\Administrator\Desktop\activity_view.png)
 
 **ContentView** ： 是一个ID为content的Framelayout，activity_main.xml就是设置在这样一个FrameLayout里。
+
+### View的测量
+
+​          `onMesure()`方法中进行测量。  **MesureSpec**类，通过它来测量View。 **MesureSpec**是一个32位的int值，其中高2位为测量模式，低32位为测量的大小。在计算中使用位运算的原因是为了提高并优化效率。
+
+-  EXACTY
+
+  精确模式，
+
+- ATMOST
+  
+- 
