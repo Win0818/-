@@ -22,3 +22,14 @@ Part of allowing this to happen means accepting businesses will be acquired when
 
 So instead of mourning the loss of ARM, we should celebrate it as an achievement and move on to the next wave of British success stories. We need to encourage the ecosystem to thrive, scaling up the businesses we have today and using the proceeds of ARM to invest in a whole new generation.
 
+ 最近日本电信公司软银收购英国芯片制造商ARM，在8月末ARM股东允许以320亿美元达成交易。公司的股票在9月5日在伦敦股票交易所退市。这个交易是欧洲科技公司最大的收购。
+
+​	自从软银有意接管ARM显示，有大量的评论哀悼英国机构失败对外国公司，围绕这个交易有许多的消极性，导致了许多的推测英国公司达到一定的大小以后没有能力保持住生意。
+
+​	然而毫无疑问应该有一个悲伤的元素对于一个这样的标志性销售组织。但是我们不应该如此消极的看待。事实是有人愿意以320亿美元来收购，就表面是巨大的成功了。可能激起下一波英国创业潮。
+
+​	然而批评者依然很多，英国的科技工业经常评估直接和硅谷进行比较，紧随着ARM的交易，许多人疑问我们为什么没有我们自己的Google或者Facebook，或者许多其他的全球，硅谷公司。按照我的观点，我们不是缺乏才智或者雄心，而是缺乏榜样。当有一个公司像Google或者Facebook一样指明方向，它对投资者和企业家表明我们可能打到这样的规模。
+
+	> 毫无疑问欧洲正处在正确的方向，特别是当你考虑一个成熟的资本投资市场在这个地区。
+
+ 
